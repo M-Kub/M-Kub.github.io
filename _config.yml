@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mi-kub
+name: Mi-Kub
 
 # Short bio or description (displayed in the header)
 description: Python, Java and a lot of other fun stuff!
@@ -25,8 +25,6 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
