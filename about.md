@@ -7,8 +7,8 @@ permalink: /about/
 ### Who am I?
 - :bust_in_silhouette: Michael Kubesch
 - :earth_asia: Frankfurt/Germany
-- :computer: (https://github.com/M-Kub)
-- :incoming_envelope: mkubesch@gmail.com
+- :computer: [https://github.com/M-Kub]
+- :incoming_envelope: [mkubesch@gmail.com](mailto:email@domain.com)
 
 ### Skills and Technologies
 
