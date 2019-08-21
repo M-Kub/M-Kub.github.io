@@ -48,7 +48,7 @@ version: v1.2.0
 
 # Enable Emojis
 plugins:
-- jemoji
+  - jemoji
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
