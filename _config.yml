@@ -49,7 +49,8 @@ encoding: UTF-8
 # Enable Emojis
 #plugins:
 #  - jemoji
-
+emoji:
+  src: "https://github.githubassets.com/images/icons/"
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
