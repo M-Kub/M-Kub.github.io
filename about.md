@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Who am I ?
 
-### Who am I?
 - :bust_in_silhouette: Michael Kubesch
 - :earth_asia: Frankfurt/Germany
 - :computer: [MySite](https://github.com/M-Kub)
