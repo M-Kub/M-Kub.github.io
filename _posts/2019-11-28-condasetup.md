@@ -1,4 +1,9 @@
-# How to install Anaconda on WSL2 and create virtual environments
+---
+layout: post
+title: How to install Anaconda on WSL2 and create virtual environments
+---
+
+
 1. Download the newest version of Anaconda from [Anaconda](https://www.anaconda.com/distribution/), on the site choose to download the Linux installer, right click the link and choose *Copy link location*.
 2. Open WSL2 Terminal go to *~/Downloads* (if the folder doesn't exist create it with mkdir ~/Downloads). When in the Downloads folder write *curl -O* and then paste in the copied link from the anaconda website. It should look like this: *curl -O https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh* .
 3. Once the installer is finished downloading just write: *bash ~/Downloads/Anaconda3-2019.10-Linux-x86_64.sh*. This will install Anaconda into your WSL2 environment.
