@@ -1,3 +1,8 @@
+---
+layout: post
+title: My Cheatsheet for Markdown
+---
+
 # Markdown Cheatsheet
 
 ## Headers
