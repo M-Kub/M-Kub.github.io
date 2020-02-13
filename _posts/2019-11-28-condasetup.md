@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to install Anaconda on WSL2 and create virtual environments
+title: How to install Anaconda on WSL2.
 ---
 
 # Setting up Anaconda
